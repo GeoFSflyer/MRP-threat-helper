@@ -10,3 +10,5 @@ How to use:
 When you open the helper, choose the settings icon and enter you user name. The helper will check if someone in chat has locked on you and notify. 
 You can also adjust the Fuzzy threshold which changes the sensitivity of the helper to typos in chat.
 Customizing aliases lets the helper know more weapon interactions. 
+
+Early in development, functional but not complete.
