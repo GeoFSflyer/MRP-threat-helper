@@ -12,6 +12,27 @@ When you open the helper, choose the settings icon and enter you user name. The 
 You can also adjust the Fuzzy threshold which changes the sensitivity of the helper to typos in chat.
 Customizing aliases lets the helper know more weapon interactions. 
 
++ Extra bookmarklet version with extra realism features
+
+Adds optional features to the original version to improve realism in MRP dogfights.
+
+Alarm: alarm sounds for status lock, away, hit and miss.
+
+Damage: simulates structual damage and engine shut down.
+
+Structual damage at second and third hit.
+
+Engine shut down at third hit.
+
+( No damage model )
+
+improvements expected: 
++ better alarm sound
++ solve engine force shutdown irreversibility unless browser refresh
++ custom aliases require re-entering everytime browser reopens
+
+
 Early in development, functional but not complete.
+
 
 Made with help from Perplexity
