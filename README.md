@@ -1,5 +1,5 @@
 # MRP-threat-helper
-If GeoFS MRP seems choatic or you cannot remeber all the counter measures, the threat helper can help you. 
+If GeoFS MRP is too choatic or you cannot remeber all the counter measures, the threat helper can help you. 
 
 When people lock on you, the threat helper will immediately notify you and suggest the best counter measure. you could also include extra interactions by customizing aliases.
 
