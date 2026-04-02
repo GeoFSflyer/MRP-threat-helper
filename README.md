@@ -27,21 +27,18 @@ Current libary based on GeoFS wiki Realistic roleplay page, approved missile lis
 
 Customizing aliases lets the helper know more weapon interactions with the format: weapon = counter measure
 
-Damage: simulates structual damage and engine shut down.
+Damage: simulates structual damage.
 
-Simulated structual damage at second and third hit.
-
-Engine shut down at third hit.
+Simulated structual damage from the second hit.
 
 If you use the helper alongside the realism pack, you will auto eject at the third hit.
 
 improvements expected: 
 + better alarm sound
-+ solve engine shutdown irreversibility unless browser refresh
 + custom aliases require re-entering everytime browser reopens
 
 
-Early in development, functional but not complete.
+Funcional but still in development.
 
 
 Made with help from Perplexity
