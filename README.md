@@ -11,7 +11,7 @@ How to use:
 
 When you open the helper, choose the settings icon and enter you user name. 
 
-The helper will check if someone in chat has locked on you and notify. 
+The helper will start checking if anyone in chat has locked on you and will notify. 
 
 You can also adjust the Fuzzy threshold which changes the sensitivity of the helper to typos in chat.
 
