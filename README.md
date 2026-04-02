@@ -1,4 +1,4 @@
-# MRPhelper
+# GeoFS-MRP-helper
 
 The helper improves your GeoFS MRP experience by providing quality of life features like lock warning, damage simulation and counter measure suggestion.
 
