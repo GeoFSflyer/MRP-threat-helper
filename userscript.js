@@ -14,7 +14,7 @@
   'use strict';
 
   if (window.__mrpSoundOnlyV4Loaded) {
-    alert('MRP weapon-library helper already loaded');
+    alert('GeoFS MRP helper already loaded');
     return;
   }
   window.__mrpSoundOnlyV4Loaded = true;
