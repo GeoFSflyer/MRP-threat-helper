@@ -1,6 +1,6 @@
 # GeoFS-MRP-helper
 
-The helper improves your GeoFS MRP experience by providing quality of life features like lock warning, damage simulation and counter measure suggestion.
+The helper improves your GeoFS MRP experience by providing quality of life features like lock warning, damage simulation.
 
 How to install:
 
@@ -19,11 +19,10 @@ There are three optional features in the helper.
 
 Alarm: alarm sounds for status lock, away, hit and miss.
 
-Counter measure suggestions:
+Judging:
+It judges whether the user used a correct countermeasure to opponent's attacks before logging hits by others.
 
-The helper will list out the counter measures required for the current weapon threat. 
-
-Current libary based on GeoFS wiki Realistic roleplay page, approved missile list.
+Current libary based on GMRP air to air missile list
 
 Customizing aliases lets the helper know more weapon interactions with the format: weapon = counter measure
 
